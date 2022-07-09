@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=JobSeekerPage
+comment0.text=\r\n\r\n\ @author\ ABHINAV\ KATHURI\r\n
+comment1.params=e\ p
+comment1.target=JobSeekerPage(java.lang.String,\ int)
+comment1.text=\r\n\ Creates\ new\ form\ jobseekerpage\r\n
+comment10.params=
+comment10.target=void\ run()
+comment2.params=
+comment2.target=void\ initComponents()
+comment2.text=\r\n\ This\ method\ is\ called\ from\ within\ the\ constructor\ to\ initialize\ the\ form.\r\n\ WARNING\:\ Do\ NOT\ modify\ this\ code.\ The\ content\ of\ this\ method\ is\ always\r\n\ regenerated\ by\ the\ Form\ Editor.\r\n
+comment3.params=evt
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=evt
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=evt
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=evt
+comment6.target=void\ show4ActionPerformed(java.awt.event.ActionEvent)
+comment7.params=evt
+comment7.target=void\ sendbuttonActionPerformed(java.awt.event.ActionEvent)
+comment8.params=evt
+comment8.target=void\ show5ActionPerformed(java.awt.event.ActionEvent)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+comment9.text=\r\n\ @param\ args\ the\ command\ line\ arguments\r\n
+numComments=11
